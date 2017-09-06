@@ -253,7 +253,7 @@ $event->isNewSession; // 是不是新的会话（第一次创建 session 时为 
 $message = $event->message;     // 获取授权事件通知内容
 ```
 
-更多 SDK 的具体使用请参考：https://easywechat.com
+更多 SDK 的具体使用请参考：https://easywechat.org
 
 ## License
 
